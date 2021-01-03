@@ -1,8 +1,16 @@
 Contador Fschmatz
 
 Versão final do contador (por enquanto).
-Foram usados mais classes e dependencias do que o necessario
+
+Utilizado para fazer contagens(!),
+possui opção para salvar e editar a contagem salva.
+
+Foram usados mais classes e dependências do que o necessário
 para um aplicativo de finalidade tão simples como este.
+
+-SharedPrefs
+-Sqflite
+-Temas
 
 Mas o objetivo era aprender sobre o Flutter.
 
