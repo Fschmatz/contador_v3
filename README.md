@@ -1,16 +1,10 @@
-# contador_v3
+Contador Fschmatz
 
-Nova versão mais organizada do contador
+Versão final do contador (por enquanto).
+Foram usados mais classes e dependencias do que o necessario
+para um aplicativo de finalidade tão simples como este.
 
-## Getting Started
+Mas o objetivo era aprender sobre o Flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/21291813/103480730-cafd9300-4db4-11eb-8de0-3a1a0d8929c0.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/21291813/103480733-cc2ec000-4db4-11eb-8586-b443f22e8a5a.png" width="30%"></img> <img src="https://user-images.githubusercontent.com/21291813/103480734-ccc75680-4db4-11eb-9928-7fcacde4b471.png" width="30%"></img> 
